@@ -1,0 +1,11 @@
+tr:nth-child(1){
+    background-color: gold !important;
+}
+
+tr:nth-child(2){
+    background-color: silver !important;
+}
+
+tr:nth-child(3){
+    background-color:  #9b3232cc  !important;
+}
