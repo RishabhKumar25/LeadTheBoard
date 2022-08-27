@@ -1,3 +1,4 @@
+// changing active tab when clicking
 function week1(){
     document.getElementById("navweek1").classList.add("active")
 
